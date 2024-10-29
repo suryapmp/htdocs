@@ -98,3 +98,8 @@ Allows administrators to configure user roles, permissions, and customization op
 - A web server (e.g., Apache, Nginx)
 - (Optional) SMS and Payment Gateway API keys (e.g., Twilio for SMS, Stripe for payments)
 
+##  Future Scope
+- Mobile Application: Develop mobile apps for iOS and Android to improve accessibility.
+- Analytics Dashboard: Advanced analytics for tracking academic performance and financial data.
+- AI-Powered Insights: Predictive analytics in student performance and administrative planning.
+
